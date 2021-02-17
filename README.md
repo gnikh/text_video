@@ -4,6 +4,7 @@
 
 # 参数说明
 
+```sh
 Options:
   --width INTEGER   The width of video clips
   --height INTEGER  The height of video clips
@@ -11,3 +12,4 @@ Options:
   --music TEXT      The music file
   --output TEXT     The output file name
   --help            Show this message and exit.
+```
